@@ -1,0 +1,37 @@
+final TruckImageList = <String>[
+  "assets/images/resources/pickup.png",
+  "assets/images/resources/pickup2.png",
+  "assets/images/resources/pickup3.png",
+  "assets/images/resources/mini2.png",
+  "assets/images/resources/mini.png",
+  "assets/images/resources/ford_transit.png",
+  "assets/images/resources/truck2.png",
+  "assets/images/resources/truck1.png",
+  "assets/images/resources/large2.png",
+  "assets/images/resources/large.png",
+];
+
+
+final AvatarImageList = <String>[
+  "assets/images/avatars/user_01a.png",
+  "assets/images/avatars/user_01b.png",
+  "assets/images/avatars/user_01c.png",
+  "assets/images/avatars/user_02a.png",
+  "assets/images/avatars/user_02b.png",
+  "assets/images/avatars/user_02c.png",
+  "assets/images/avatars/user_03a.png",
+  "assets/images/avatars/user_03b.png",
+  "assets/images/avatars/user_03C.png",
+  "assets/images/avatars/user_04a.png",
+  "assets/images/avatars/user_04b.png",
+  "assets/images/avatars/user_04c.png",
+  "assets/images/avatars/user_05a.png",
+  "assets/images/avatars/user_05b.png",
+  "assets/images/avatars/user_05c.png",
+  "assets/images/avatars/user_06a.png",
+  "assets/images/avatars/user_06b.png",
+  "assets/images/avatars/user_06c.png",
+  "assets/images/avatars/user_07a.png",
+  "assets/images/avatars/user_07b.png",
+  "assets/images/avatars/user_07c.png",
+];

@@ -1,0 +1,6 @@
+const google_api_key = "AIzaSyCKQRNFJSSSsLlVW2dDwT1E91iTX_9yf1w";
+const google_route_api = "AIzaSyBoxf4FnsvVAfqYCCHx71PSUVwAJcSf7m8";
+const geocoder_api_key = "348740175803540265921x108595";
+const open_route_api_key = "5b3ce3597851110001cf624887aaefd7db814bd3af610e3d1f57ab1d";
+const STRIPE_PUBLISH_KEY = "pk_test_51PZH3k2NZFETYezAxbMJ0FqYXFTC2UqoKh389sme20qt4BveILKzGn61dtwOu4gRkNp2Am8q1cs2xFBrU94y0cZZ00JZlAJNhG";
+const STRIPE_SECRET_KEY = "sk_test_51PZH3k2NZFETYezAC4GqBgvZIHhUpWrZA4vxk9smkGdE1wWzBmKCACqhxKqe02Y7e6RHgkQTdw9ISjzpzzOIZPol00nNeXWcEL";
