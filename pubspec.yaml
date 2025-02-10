@@ -1,0 +1,122 @@
+name: backcaps_logistics
+description: BackCAPS Logistics - Revolutionizing the delivery operations
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.0.5
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  connectivity_plus: ^2.3.6
+  shared_preferences: ^2.0.15
+  pin_code_fields: ^7.3.0
+  google_maps_flutter: ^2.5.3
+  flutter_svg_provider: ^1.0.3
+  sms_autofill: ^2.0.0
+  smooth_page_indicator: ^1.0.0+2
+  intl: ^0.18.0
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.15.3
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.13.6
+  firebase_storage: ^11.5.6
+  lottie: ^2.7.0
+  google_fonts: ^4.0.4
+  uuid: ^4.2.2
+  get: ^4.6.6
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.7
+  pinput: ^3.0.1
+  geolocator: ^10.1.0
+  cnic_scanner: ^0.0.4
+  geocode: ^1.0.3
+  animated_toggle_switch: ^0.8.1
+  material_design_icons_flutter: ^7.0.7296
+  flex_color_picker: ^3.3.1
+  image_picker: ^1.0.7
+  gap: ^3.0.1
+  qr_code_scanner: ^1.0.1
+  qr_bar_code_scanner_dialog: ^0.0.5
+  mobile_scanner: ^4.0.1
+  geocoding: ^3.0.0
+  fluttertoast: ^8.2.5
+  flutter_polyline_points: ^1.0.0
+  open_route_service: ^1.2.2
+  http: ^0.13.6
+  loading_animation_widget: ^1.2.1
+  page_view_dot_indicator: ^2.3.0
+  shimmer: ^3.0.0
+  url_launcher: ^6.2.4
+  flutter_phone_direct_caller: ^2.1.1
+  crypto: ^3.0.3
+  flutter_stripe: ^9.5.0+1
+  flutter_dotenv: ^5.1.0
+  flutter_rating_bar: ^4.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter_native_splash:
+  ios: true
+  android: true
+
+  color: "#42a5f5"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+
+  image_path: "assets/images/logos/app_icon.png"
+
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/images/svg/
+    - assets/images/avatars/
+    - assets/images/logos/
+    - assets/images/resources/
+    - assets/icons/
+    - assets/animations/
+    - assets/map_style.txt
+
+  fonts:
+    - family: Futura
+      fonts:
+        - asset: assets/fonts/futura/futur.ttf
+        - asset: assets/fonts/futura/Futura-Bold.ttf
+        - asset: assets/fonts/futura/Futura-Bold-Italic.ttf
+        - asset: assets/fonts/futura/Futura-Book.ttf
+        - asset: assets/fonts/futura/Futura-Book-Italic.ttf
+        - asset: assets/fonts/futura/Futura-Extra-Black.ttf
+        - asset: assets/fonts/futura/Futura-Heavy.ttf
+        - asset: assets/fonts/futura/Futura-Heavy-Italic.ttf
+        - asset: assets/fonts/futura/futura-light-bt.ttf
+        - asset: assets/fonts/futura/Futura-Light.ttf
+        - asset: assets/fonts/futura/Futura-Light-Italic.ttf
+        - asset: assets/fonts/futura/futura-medium-bt.ttf
+        - asset: assets/fonts/futura/futura-medium-condensed-bt.ttf
+        - asset: assets/fonts/futura/Futura-Medium-Italic.ttf
+        - asset: assets/fonts/futura/Futura-XBlk-BT.ttf
+        - asset: assets/fonts/futura/Futura-CondensedLight.otf
+        - asset: assets/fonts/futura/tt0205m.ttf
+        - asset: assets/fonts/futura/unicode.futurab.ttf
+        - asset: assets/fonts/futura/unicode.futurabb.ttf
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
