@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225348958001",
+    "project_id": "backcaps-logistics",
+    "storage_bucket": "backcaps-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225348958001:android:080d5e6e962bea718e2210",
+        "android_client_info": {
+          "package_name": "com.backcaps.backcaps_logistics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq5baR5kXXXaWZkI5Fx_wrnMfL_emj3Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
