@@ -14,25 +14,21 @@ Revolutionizing the delivery operations
    including a lack of a comprehensive and user-friendly online booking system, inefficient route
    planning, inadequate load matching, limited transparency, registration of small businesses, and
    cumbersome paperwork. 
-## Project Introduction
-   The BackCAPS Logistics will allow users to register their business on the platform and operate
-   it smoothly including, order processing, packaging control, route guidance system having
-   advanced tracking system to save time, money, and fuel. It will help companies look for new
-   drivers from the Driver Resource Center. It also allows the customers to send and receive goods
-   across the country. A list of open-to-work drivers having no cargo utility vehicle will be shown
-   to companies registered on the platform, from where the companies could hire them, which
-   will eventually create new job opportunities. A person can also register his cargo vehicle along
-   with driving license to work locally on the platform. Upon receiving an order, the platform will
-   prioritize the order to be delivered by the registered organization, if the registered organization
-   declines the order processing then the order will be handed over to registered local drivers.
-   This platform will be beneficial for large organizations as well as individuals. The organization
-   will be able to register its business on it to manage logistic operations. It will also be able to
-   hire drivers from the Driver Resource Center within the platform where the list of open-to-
-   work drivers is maintained. It will also ease the process of delivering goods across the country
-   for the customers.
 
-'''bash
--Project
-   -Test
+## Project Overview
+BackCAPS Logistics is a mobile application prototype designed to digitize and optimize operations for small-to-medium logistics fleets. The project addresses real-world inefficiencies observed in manual dispatch, low vehicle utilization, and lack of data-driven decision-making in the local logistics sector.
 
-'''
+The app connects vehicle owners with customers needing goods transportation, providing a centralized platform for booking, tracking, and managing logistics workflows.
+
+## Technical Implementation
+- **System Architecture and design** : 3 layer Architecture.
+- **Frontend:** Built with **Flutter** (Dart) for cross-platform mobile compatibility.
+- **Backend & Database:** **Google Firebase** (Firestore, Authentication, Cloud Storage) for real-time data synchronization and user management.
+- **Core Services:** Integrated **Google Maps API** for location pick-up/drop-off selection, geocoding, and distance calculation.
+- **State Management:** Provider pattern for efficient app state management.
+- **Development Tools:** Android Studio, VS Code, Git/GitHub for version control.
+
+## System Architecture & My Contributions
+As a core member of a 3-person team, my primary responsibilities focused on **system architecture and Designt**:
+Led the system design phase for BackCAPS Logistics, a multi-platform logistics platform. Developed comprehensive UML diagrams (use cases, sequence, activity, class, architecture) and UI prototypes to define system behavior, structure, and user interaction. My design work established the foundation for implementation, ensuring alignment with functional requirements and scalability.
+
